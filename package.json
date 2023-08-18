@@ -1,9 +1,9 @@
 {
-  "name": "api-holmes",
+  "name": "vide-streaming-nodejs",
   "version": "1.0.0",
-  "description": "API para fornecer dados a aplicação HOLMES",
+  "description": "API para serviço de streaming de vídeos",
   "main": "server.js",
-  "author": "Grupo Newland - Igor Neves / Vitor Hugo",
+  "author": "VOID",
   "license": "UNLICENSED",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
